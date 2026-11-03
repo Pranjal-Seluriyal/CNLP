@@ -1,7 +1,7 @@
 # Experiment 3: Stemming, Lemmatization and Regular Expressions
 
-**Name:** Aantriksh Sood  
-**SAP ID:** 500124259  
+**Name:** Pranjal Seluriyal  
+**SAP ID:** 500122853  
 
 ## Objective
 To implement and analyze core text normalization techniques (Stemming and Lemmatization) using the NLTK library, and to perform pattern-based information extraction from unstructured text using Regular Expressions (Regex).
