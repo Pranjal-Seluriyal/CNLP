@@ -1,7 +1,7 @@
 # Experiment 1: Data Analysis
 
-**Name:** Aantriksh Sood  
-**SAP ID:** 500124259  
+**Name:** Pranjal Seluriyal   
+**SAP ID:** 500122853
 
 ## Objective
 To perform exploratory data analysis on a structured dataset to derive meaningful insights using Python data manipulation and visualization libraries.
